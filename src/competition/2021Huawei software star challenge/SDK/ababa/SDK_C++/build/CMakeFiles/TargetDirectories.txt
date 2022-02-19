@@ -1,0 +1,3 @@
+/home/user/桌面/SDK/SDK_C++/build/CMakeFiles/rebuild_cache.dir
+/home/user/桌面/SDK/SDK_C++/build/CMakeFiles/CodeCraft-2021.dir
+/home/user/桌面/SDK/SDK_C++/build/CMakeFiles/edit_cache.dir

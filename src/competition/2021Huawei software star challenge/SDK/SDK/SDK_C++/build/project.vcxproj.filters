@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="F:\competition\2021Huawei software star challenge\SDK\SDK\SDK_C++\CodeCraft-2021\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="F:\competition\2021Huawei software star challenge\SDK\SDK\SDK_C++\CodeCraft-2021\input.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\competition\2021Huawei software star challenge\SDK\SDK\SDK_C++\CodeCraft-2021\DataStructure.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="F:\competition\2021Huawei software star challenge\SDK\SDK\SDK_C++\CodeCraft-2021\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{CC7A1C81-799E-3ABA-9371-220942595ACF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{85EB9821-8037-3DE7-9740-5E95F0B0BE2F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
